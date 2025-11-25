@@ -51,6 +51,7 @@ config.testing.yaml
 
 # Documentation with secrets
 SUCCESS_SUMMARY.md
+INSTALLATION_GUIDE.html
 
 # PID files
 *.pid
