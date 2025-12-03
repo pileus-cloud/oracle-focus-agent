@@ -49,11 +49,13 @@ state/
 config.yaml
 config.testing.yaml
 
+# Config directory (contains runtime configs and secrets)
+config/
+
 # Environment variables with secrets
 .env
 
 # Private keys
-config/oci_private_key.pem
 *.pem
 
 # Documentation with secrets

@@ -497,7 +497,7 @@ chmod 600 ~/.aws/credentials
 ```
 
 **Finding Your AWS Credentials:**
-- **Access Key ID:** Identifies your AWS account (e.g., AKIA5P3M7ROSGD6XXZIQ)
+- **Access Key ID:** Identifies your AWS account (e.g., AKIAIOSFODNN7EXAMPLE)
 - **Secret Access Key:** The password for your access key (keep this secure!)
 - Both are required for AWS authentication
 
